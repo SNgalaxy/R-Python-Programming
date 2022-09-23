@@ -1,3 +1,2 @@
 # R-Python-Programming
-This repository include sample codes of manipulation of data using Python and the Analysis of the data using R
-
+This repository include sample codes of a 5-fold cross validation study using Skilearn in Python and visualization and statsitcial analysis of a set of proteomics data using R
